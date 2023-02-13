@@ -6,6 +6,10 @@ interface Props {
   data: Gif;
 }
 
+interface Props {
+  data: Gif;
+}
+
 function Card({ data }: Props) {
   return (
     <div className="w-fit p-4 rounded-md border flex flex-col justify-center">
