@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@next/font": "^13.1.5",
+    "@reduxjs/toolkit": "^1.9.2",
     "@typescript-eslint/eslint-plugin": "^5.49.0",
     "@typescript-eslint/parser": "*",
     "airbnb": "^0.0.2",
@@ -25,6 +26,7 @@
     "next": "^13.1.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
     "sass": "^1.57.1",
     "styled-components": "6.0.0-beta.9"
   },

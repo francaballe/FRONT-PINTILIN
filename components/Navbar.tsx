@@ -13,10 +13,10 @@ function Navbar() {
         >
           <Image
             alt="logo"
-            src="./logo.webp"
+            src="/logo.webp"
             className="w-12 h-12"
-            width="48"
-            height="48"
+            width="100"
+            height="100"
           />
         </button>
       </Link>
@@ -61,16 +61,16 @@ function Navbar() {
       <div className="flex items-center">
         <button className="relative rounded-full hover:bg-light flex items-center justify-center px-4">
           <Image
-            width="30"
-            height="30"
+            width="26"
+            height="26"
             alt="user"
             src="https://icongr.am/octicons/person.svg?size=148&color=242424"
           />
         </button>
         <button className="relative rounded-full hover:bg-light flex items-center justify-center px-4">
           <Image
-            width="30"
-            height="30"
+            width="26"
+            height="26"
             alt="bookmar"
             src="https://icongr.am/octicons/bookmark-fill.svg?size=148&color=242424"
           />
