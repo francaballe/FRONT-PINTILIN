@@ -14,7 +14,8 @@ const nextConfig = {
       "media2.giphy.com",
       "media3.giphy.com",
       "media4.giphy.com",
-      "ezgif.com",
+      "static.vecteezy.com",
+      "icongr.am",
     ],
   },
   env: {

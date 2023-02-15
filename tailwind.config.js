@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "pinterest-grey": "#333",
+        "pinterest-gray": "#333",
+        "pinterest-logo-gray": "#5f5f5f",
+        "pinterest-navbar-gray": "#e9e9e9",
       },
     },
   },

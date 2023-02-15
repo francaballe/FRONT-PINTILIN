@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 function Header() {
   return (
-    <header className="w-full h-[80px]">
+    <header className="px-3 py-4 flex items-center justify-center w-full">
       <Navbar />
     </header>
   );
